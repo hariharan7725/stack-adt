@@ -19,7 +19,7 @@ from components.website_viewer import render_website_viewer
 # 1. Page Configuration & Cyber-Glassmorphism CSS
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="StackNav — Cyber-Glassmorphism Dual Stack Browser",
+    page_title=" Stack Browser - Using Stack ADT",
     page_icon="🧭",
     layout="wide",
     initial_sidebar_state="collapsed",
